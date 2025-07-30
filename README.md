@@ -33,9 +33,7 @@ Here are some ideas to get you started:
     style="display: block;"
   />
 </a>
-<a href="">
  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</a>
 </div>
 
 ### Languages and Tools:

@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: i did nothing <br/>
  ![Hisoka](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFiczFib2owYzRvaHl5eG1vbW90dTJtcXpyaXk2NzJqcjRwMTE1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IurNlhZHaj7TG/giphy.gif)
 
-#### Lets Connect!
+### Lets Connect!
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" src="https://www.instagram.com/rizqradt/"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
 
-#### Languages and Tools:
+### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,py,java,flutter,dart,bootstrap,figma,anaconda,androidstudio,vue,laravel,mysql,nodejs,sqlite,tailwind,)](https://skillicons.dev)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=urmalevolent&show_icons=true&theme=tokyonight)

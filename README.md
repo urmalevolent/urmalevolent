@@ -32,3 +32,9 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,py,java,flutter,dart,bootstrap,figma,anaconda,androidstudio,vue,laravel,mysql,nodejs,sqlite,tailwind,)](https://skillicons.dev)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=urmalevolent&show_icons=true&theme=tokyonight)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/urmalevolent/urmalevolent/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/urmalevolent/urmalevolent/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/urmalevolent/urmalevolent/output/pacman-contribution-graph.svg">
+</picture>

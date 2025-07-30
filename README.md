@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning Backend
-![Rick](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWQ1bGRwZTAwMDc3OTJjY3k3Nmc0YXVieDd5c2l6eWQyNmpyMXh2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iOPiWX4wUMhly5mFP4/giphy.gif)
+ ![Rick](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWQ1bGRwZTAwMDc3OTJjY3k3Nmc0YXVieDd5c2l6eWQyNmpyMXh2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iOPiWX4wUMhly5mFP4/giphy.gif)
 - ⚡ Fun fact: i did nothing
-![Hisoka](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFiczFib2owYzRvaHl5eG1vbW90dTJtcXpyaXk2NzJqcjRwMTE1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IurNlhZHaj7TG/giphy.gif)
+ ![Hisoka](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFiczFib2owYzRvaHl5eG1vbW90dTJtcXpyaXk2NzJqcjRwMTE1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IurNlhZHaj7TG/giphy.gif)
 
 #### Lets Connect!
 <div align="left">

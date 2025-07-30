@@ -24,7 +24,15 @@ Here are some ideas to get you started:
 
 ### Lets Connect!
 <div align="left">
-  <img link='https://www.instagram.com/rizqradt?igsh=azdnbzVvYWE0cGlk' src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/rizqradt?igsh=azdnbzVvYWE0cGlk" target="_blank">
+  <img 
+    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" 
+    alt="Instagram profile of Rizqradt"
+    width="52" 
+    height="40" 
+  />
+</a>
+
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
 

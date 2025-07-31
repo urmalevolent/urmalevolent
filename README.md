@@ -2,7 +2,6 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=urmalevolent.urmalevolent&right_color=crimson&left_text=Visitors"  />
 </div>
-
 <!--
 **urmalevolent/urmalevolent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Hello, my name is Rizqi. I am a front-end developer and currently a university student. My aspiration is to become an expert full-stack developer. <br/>
+
 - 🌱 I’m currently learning Backend <br/>
  ![Rick](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWQ1bGRwZTAwMDc3OTJjY3k3Nmc0YXVieDd5c2l6eWQyNmpyMXh2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iOPiWX4wUMhly5mFP4/giphy.gif)
 - ⚡ Fun fact: i did nothing <br/>

@@ -1,51 +1,94 @@
-## Hi Folks 👋
+# 👋 Hi Folks, I'm Rizqi!
+
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=urmalevolent.urmalevolent&right_color=crimson&left_text=Visitors"  />
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=urmalevolent.urmalevolent&right_color=crimson&left_text=Visitors" />
+
 </div>
 
-###
-<!--
-**urmalevolent/urmalevolent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;University+Student;Future+Full-Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- Hello, my name is Rizqi. I am a front-end developer and currently a university student. My aspiration is to become an expert full-stack developer. <br/>
+---
 
-- 🌱 I’m currently learning Backend <br/>
- ![Rick](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWQ1bGRwZTAwMDc3OTJjY3k3Nmc0YXVieDd5c2l6eWQyNmpyMXh2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iOPiWX4wUMhly5mFP4/giphy.gif)
+## 👨‍💻 About Me
 
-- ⚡ Fun fact: Looking for an internship <br/>
- ![Hisoka](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFiczFib2owYzRvaHl5eG1vbW90dTJtcXpyaXk2NzJqcjRwMTE1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IurNlhZHaj7TG/giphy.gif)
+Hi! My name is **Rizqi**.
 
-### Lets Connect!
-<div align="left">
- <a href="https://www.instagram.com/rizqradt?igsh=azdnbzVvYWE0cGlk" target="_blank" style="display: inline-block;">
-  <img 
-    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" 
-    alt="Instagram profile of Rizqradt"
-    width="52" 
-    height="40"
-    style="display: block;"
-  />
-</a>
- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+I'm a **Front-End Developer** and a university student who enjoys building modern, responsive, and user-friendly web applications.
+
+🎯 My goal is to become an **expert Full-Stack Developer**.
+
+🌱 Currently, I'm focusing on improving my **Backend Development** skills and learning how to build better applications from frontend to backend.
+
+⚡ **Fun fact:** I'm currently **looking for an internship opportunity** where I can learn, contribute, and grow as a developer.
+
+---
+
+## 🚀 Currently Learning
+
+<div align="center">
+
+|  💻 Frontend | ⚙️ Backend | 🗄️ Database | 🛠️ Tools |
+| :----------: | :--------: | :----------: | :-------: |
+|    Vue.js    |   Node.js  |     MySQL    |    Git    |
+| Tailwind CSS |   Laravel  |  PostgreSQL  |   GitHub  |
+|   Bootstrap  |  REST API  |    SQLite    |  Postman  |
+
 </div>
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,py,java,flutter,dart,bootstrap,figma,anaconda,androidstudio,vue,laravel,mysql,nodejs,sqlite,tailwind,)](https://skillicons.dev)
+<br>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=urmalevolent&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urmalevolent&layout=compact&theme=tokyonight)
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWQ1bGRwZTAwMDc3OTJjY3k3Nmc0YXVieDd5c2l6eWQyNmpyMXh2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iOPiWX4wUMhly5mFP4/giphy.gif" width="300">
+
+</div>
+
+---
+
+## 🧑‍💻 Developer Mindset
+
+```text
+Learn → Build → Break → Debug → Improve → Repeat
+```
+
+I believe that becoming a better developer is not just about writing code, but also about continuously learning, solving problems, and improving every project.
+
+---
+
+## 🛠️ Languages and Tools
+
+### 💻 Programming Languages
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,py,java,dart)](https://skillicons.dev)
+
+### 🎨 Frameworks & Libraries
+
+[![My Skills](https://skillicons.dev/icons?i=vue,laravel,flutter,bootstrap,tailwind,nodejs)](https://skillicons.dev)
+
+### 🗄️ Database & Development Tools
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,figma,anaconda,androidstudio)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=urmalevolent&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urmalevolent&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 🐍 My Contribution Journey
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/urmalevolent/urmalevolent/output/pacman-contribution-graph-dark.svg">
@@ -53,4 +96,40 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/urmalevolent/urmalevolent/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
+
+## ⚡ Fun Fact
+
+<div align="center">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFiczFib2owYzRvaHl5eG1vbW90dTJtcXpyaXk2NzJqcjRwMTE1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IurNlhZHaj7TG/giphy.gif" width="300">
+
+### 🎯 Currently Looking for an Internship
+
+I'm looking for an opportunity to gain real-world experience, contribute to a development team, and continue growing as a software developer.
+
+</div>
+
+---
+
+## 🌐 Let's Connect!
+
+<div align="center">
+
+<a href="https://www.instagram.com/rizqradt?igsh=azdnbzVvYWE0cGlk" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram"/>
+</a>
+
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Thanks for visiting my profile! 🚀**
+
+⭐ Feel free to explore my repositories and projects.
+
+</div>

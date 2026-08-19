@@ -1,4 +1,4 @@
-# 👋 Hi Folks, I'm Rizqi!
+# 👋 Hi Folks
 
 <div align="left">
 
@@ -32,12 +32,9 @@ I'm a **Front-End Developer** and a university student who enjoys building moder
 
 <div align="center">
 
-|  💻 Frontend | ⚙️ Backend | 🗄️ Database | 🛠️ Tools |
-| :----------: | :--------: | :----------: | :-------: |
-|    Vue.js    |   Node.js  |     MySQL    |    Git    |
-| Tailwind CSS |   Laravel  |  PostgreSQL  |   GitHub  |
-|   Bootstrap  |  REST API  |    SQLite    |  Postman  |
+I'm currently learning the fundamentals of game programming, exploring basic game development concepts, programming logic, and how games are built from the ground up.
 
+🌱 Learning: Game Programming Fundamentals
 </div>
 
 <br>
@@ -64,7 +61,7 @@ I believe that becoming a better developer is not just about writing code, but a
 
 ### 💻 Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,py,java,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,py,java,dart,react,nextjs)](https://skillicons.dev)
 
 ### 🎨 Frameworks & Libraries
 

@@ -18,13 +18,7 @@
 
 Hi! My name is **Rizqi**.
 
-I'm a **Front-End Developer** and a university student who enjoys building modern, responsive, and user-friendly web applications.
-
-🎯 My goal is to become an **expert Full-Stack Developer**.
-
-🌱 Currently, I'm focusing on improving my **Backend Development** skills and learning how to build better applications from frontend to backend.
-
-⚡ **Fun fact:** I'm currently **looking for an internship opportunity** where I can learn, contribute, and grow as a developer.
+I'm a **FullStack Developer** and a university student who enjoys building modern, responsive, and user-friendly web applications.
 
 ---
 

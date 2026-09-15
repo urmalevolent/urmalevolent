@@ -41,16 +41,6 @@ I'm currently learning the fundamentals of game programming, exploring basic gam
 
 ---
 
-## 🧑‍💻 Developer Mindset
-
-```text
-Learn → Build → Break → Debug → Improve → Repeat
-```
-
-I believe that becoming a better developer is not just about writing code, but also about continuously learning, solving problems, and improving every project.
-
----
-
 ## 🛠️ Languages and Tools
 
 ### 💻 Programming Languages
